@@ -22,7 +22,6 @@
 - ☕ 后端技术: **Java (Spring Boot) & Go**
 - ⚛️ 前端技术: **TypeScript, Vue, React**
 - 💡 热衷于 **云原生 & 微服务架构**
-- 📫 联系方式: **你的邮箱@example.com**
 
 ### 🛠️ 技术栈 (Tech Stack)
 
@@ -37,9 +36,10 @@
 ### 📊 统计数据 (Github Stats)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=m9d2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=m9d2&show_icons=true&theme=tokyonight&hide_border=true" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m9d2&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 </td>
