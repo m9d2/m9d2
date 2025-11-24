@@ -37,9 +37,9 @@
 ### 📊 Github 数据 (Stats)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=m9d2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m9d2&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 </td>
