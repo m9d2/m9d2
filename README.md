@@ -4,17 +4,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%26+Go+Expert;Vue+%26+React+Lover;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%26+Go+Expert;Vue+%26+React+Lover;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-<div align="center">
 
-<table>
-<tr>
-<td valign="top" width="50%">
 
 ### 👨‍💻 关于我 (About Me)
 
@@ -29,13 +25,9 @@
   <img src="https://skillicons.dev/icons?i=java,go,ts,vue,react,spring,mysql,redis,docker,git&perline=5" />
 </div>
 
-</td>
-
-<td valign="top" width="50%">
-
 
 ---
-
+<div align="center">
 ### 🐍 My Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m9d2/m9d2/output/github-contribution-grid-snake-dark.svg">
