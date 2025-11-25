@@ -33,20 +33,6 @@
 
 <td valign="top" width="50%">
 
-### 📊 统计数据 (Github Stats)
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=m9d2&show_icons=true&theme=tokyonight&hide_border=true" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m9d2&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
