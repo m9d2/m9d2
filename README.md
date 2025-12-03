@@ -22,13 +22,13 @@
 ### 🛠️ 技术栈 (Tech Stack)
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,go,ts,vue,react,spring,mysql,redis,docker,git&perline=5" />
+  <img src="https://skillicons.dev/icons?i=java,go,ts,vue,react,spring,mysql,redis,docker,git&perline=20" />
 </div>
 
 
 ---
 <div align="center">
-### 🐍 My Contributions
+  <h2>🐍 My Contributions</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m9d2/m9d2/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m9d2/m9d2/output/github-contribution-grid-snake.svg">
